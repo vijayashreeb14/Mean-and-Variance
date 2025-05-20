@@ -1,6 +1,7 @@
 #  Mean and variance of a discrete  distribution
-
-
+# NAME :VIJAYASHREE B
+# REG NO: 212223040238
+# DATE:4/3/25
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
